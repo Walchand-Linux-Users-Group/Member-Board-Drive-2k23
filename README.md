@@ -8,3 +8,18 @@
 
 ![Website ScreenShoot](https://github.com/c0delust/member-board-drive/assets/83002941/5e23aec6-e749-4b99-b2e5-95b7204eca81)
 
+## Developer:
+
+- ### [Mohammadsaad Mulla](https://github.com/c0delust)
+
+## Techstack:
+
+- #### Frontend: ReactJS
+- #### Backend: NodeJS, ExpressJS
+- #### Database: MongoDB
+- #### Cloud Storage: Google Drive
+
+<hr/>
+
+<p align="center">© 2023 WCEWLUG, ALL RIGHTS RESERVED</p>
+<hr/>
